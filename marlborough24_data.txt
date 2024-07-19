@@ -1,0 +1,401 @@
+Leg,Team Number,Team Name,Runner,Category,Start Time,Finish Time,Time(including penalties),Pace(including penalties),Penalties,Mass Start?,Team placing at the end of this Leg,Individual placing this Leg
+ 1, 1, Abingdon AC 1, James Clayton, M ,7:30:00, 8:43:33, 1:13:33, 0:06:41, 0:00:00,, 9, 9
+ 1, 2, Abingdon AC 2, Peter  Akrill, M, 7:30:00, 8:58:34, 1:28:34, 0:08:03, 0:00:00,, 24 ,24
+ 1, 3, Alchester Red, Jonathan White, M, 7:30:00, 8:51:38, 1:21:38, 0:07:25, 0:00:00,, 15, 15
+ 1, 4, Alchester Blue, Steph Giles, F, 7:30:00, 8:51:38, 1:21:38, 0:07:25, 0:00:00,, 15, 15
+ 1, 5, Bearbrook A, Paul Anderson, MV, 7:30:00, 9:00:03, 1:30:03, 0:08:11, 0:00:00,, 28, 28
+ 1, 6, Bearbrook 1, Owen Byrne, MV, 7:30:00, 8:51:19, 1:21:19, 0:07:24, 0:00:00,, 14, 14
+ 1, 7, Compton Harriers RC 'A', Jim Collins, MV, 7:30:00, 8:47:35, 1:17:35, 0:07:03, 0:00:00,, 12, 12
+ 1, 8, Compton Harriers RC 'B', Martin Fray, MV, 7:30:00, 8:52:24, 1:22:24, 0:07:29, 0:00:00,, 19, 19
+ 1, 9, Eynsham Roadrunners A, Tom Baker, M, 7:30:00, 8:40:11, 1:10:11, 0:06:23, 0:00:00,, 5, 5
+ 1, 10, Eynsham Roadrunners B, Neil Reeves, M, 7:30:00, 9:05:41, 1:35:41, 0:08:42, 0:00:00,, 34, 34
+ 1, 11, HX Soles on Fire, John Houston, M, 7:30:00, 9:04:14, 1:34:14, 0:08:34, 0:00:00,, 31, 31
+ 1, 12, HX Cirque du Sore Legs, Rickie Baron, M, 7:30:00, 8:57:51, 1:27:51, 0:07:59, 0:00:00,, 22, 22
+ 1, 13, HX Pacemakers, Frank Fulcher, MV, 7:30:00, 8:49:13, 1:19:13, 0:07:12, 0:00:00,, 13, 13
+ 1, 14, Headington RoadRunners Mostly Ladies, Stefan Franssen, M, 7:30:00, 9:05:41, 1:35:41, 0:08:42, 0:00:00,, 34, 34
+ 1, 15, Headington RoadRunners Mostly Men,Tom Green, M, 7:30:00, 8:36:21, 1:06:21, 0:06:02, 0:00:00,, 2, 2
+ 1, 16, Headington RoadRunners Vets, John Griffiths, MV, 7:30:00, 9:00:07, 1:30:07, 0:08:12, 0:00:00,, 29, 29
+ 1, 17, Lliswerry Runners, Niamh Ovey, F, 7:30:00, 11:34:00, 4:04:00, 0:22:11, 0:00:00,Yes, 40, 40
+ 1, 18, Marlborough Rambunctious Caperers, Miguel Possolo, MV, 7:30:00, 9:04:04, 1:34:04, 0:08:33, 0:00:00,, 30, 30
+ 1, 19, Marlborough Righteous Crusaders, Rob Pyle, M, 7:30:00, 9:04:15, 1:34:15, 0:08:34, 0:00:00,, 32, 32
+ 1, 20, Newbury AC Team A, Alex Aldridge, M, 7:30:00, 8:37:28, 1:07:28, 0:06:08, 0:00:00,, 3, 3
+ 1, 21, Newbury AC Team B, Mike Robbins, M, 7:30:00, 8:43:54, 1:13:54, 0:06:43, 0:00:00,, 10, 10
+ 1, 22, Pewsey Projectiles (PVRC), Richard Albary, M, 7:30:00, 9:14:07, 1:44:07, 0:09:28, 0:00:00,, 37, 37
+ 1, 23, Reading Roadrunners Mostly Men, Chris Moseley, M, 7:30:00, 8:43:03, 1:13:03, 0:06:38, 0:00:00,, 8, 8
+ 1, 24, Reading Roadrunners Mostly Ladies, Dimi Gospodinov, M, 7:30:00, 8:42:09, 1:12:09, 0:06:34, 0:00:00,, 7, 7
+ 1, 25, Reading Roadrunners Veterans, Ann Rostern, FV, 7:30:00, 8:59:52, 1:29:52, 0:08:10, 0:00:00,, 27, 27
+ 1, 26, Royal Wootton Bassett Hounds RC / Team 1, Henry Meadows, M, 7:30:00, 8:53:06, 1:23:06, 0:07:33, 0:00:00,, 20, 20
+ 1, 27, Royal Wootton Bassett Hounds RC / Team 2, Tania O'Halloran, FV, 7:30:00, 9:22:10, 1:52:10, 0:10:12, 0:00:00,, 38, 38
+ 1, 28, Swindon Striders, Pete Gilder, MV, 7:30:00, 8:59:49, 1:29:49, 0:08:10, 0:00:00,, 26, 26
+ 1, 29, Team Paolo, David Haggart, M, 7:30:00, 9:05:04, 1:35:04, 0:08:39, 0:00:00,, 33, 33
+ 1, 30, Team Rosa, Craig Rose, M, 7:30:00, 8:51:38, 1:21:38, 0:07:25, 0:00:00,, 15, 15
+ 1, 31, Wood Reading, Umair Baig, M, 7:30:00, 9:13:28, 1:43:28, 0:09:24, 0:00:00,, 36, 36
+ 1, 32, Vale of Aylesbury, James Davis, M, 7:30:00, 8:35:36, 1:05:36, 0:05:58, 0:00:00,, 1, 1
+ 1, 33, Witney Road Runners A, Cormac Malone, M, 7:30:00, 8:41:35, 1:11:35, 0:06:30, 0:00:00,, 6, 6
+ 1, 34, Witney Road Runners B, Andy Green, M, 7:30:00, 8:51:54, 1:21:54, 0:07:27, 0:00:00,, 18, 18
+ 1, 35, Woodstock AC, Sophie Carter, M, 7:30:00, 8:59:23, 1:29:23, 0:08:08, 0:00:00,, 25, 25
+ 1, 36, Wroughton Whippets, Kyle Mcconnell, M, 7:30:00, 8:40:07, 1:10:07, 0:06:22, 0:00:00,, 4, 4
+ 1, 37, Whippets Wonder Women, Holly Horton, F, 7:30:00, 8:56:35, 1:26:35, 0:07:52, 0:00:00,, 21, 21
+ 1, 38, Whippet Greys, Martin Crane, MV, 7:30:00, 8:44:42, 1:14:42, 0:06:47, 0:00:00,, 11, 11
+ 1, 39, WHH Thoroughbreds, Kevin Sinclair, MV, 7:30:00, 8:58:27, 1:28:27, 0:08:02, 0:00:00,, 23, 23
+ 1, 40, Buckinghamshire Runners, Prodromos Sarigianis, MV, 7:30:00, 9:22:13, 1:52:13, 0:10:12, 0:00:00,, 39, 39
+ 2, 1, Abingdon AC 1, Rob Howlin, M, 8:43:33, 9:27:48, 0:44:15, 0:07:22, 0:00:00,, 3, 1
+ 2, 2, Abingdon AC 2, Susie Grist, F, 8:58:34, 10:12:45, 1:14:11, 0:12:22, 0:00:00,, 31, 33
+ 2, 3, Alchester Red, Ian Lancaster, M, 8:51:38, 9:48:16, 0:56:38, 0:09:26, 0:00:00,, 13, 15
+ 2, 4, Alchester Blue, Steph Fisher, FV, 8:51:38, 10:08:45, 1:17:07, 0:12:51, 0:00:00,, 29, 34
+ 2, 5, Bearbrook A, James Powell, M, 9:00:03, 9:55:36, 0:55:33, 0:09:15, 0:00:00,, 20, 14
+ 2, 6, Bearbrook 1, Angie Nuttall, FV, 8:51:19, 9:49:10, 0:57:51, 0:09:39, 0:00:00,, 14, 17
+ 2, 7, Compton Harriers RC 'A', Sue Francis, FV, 8:47:35, 9:40:51, 0:53:16, 0:08:53, 0:00:00,, 10, 11
+ 2, 8, Compton Harriers RC 'B', George Wilkins, M, 8:52:24, 9:54:31, 1:02:07, 0:10:21, 0:00:00,, 18, 22
+ 2, 9, Eynsham Roadrunners A, Robert Storey, MV, 8:40:11, 9:31:33, 0:51:22, 0:08:34, 0:00:00,, 7, 6
+ 2, 10, Eynsham Roadrunners B, Steve Garton, MV, 9:05:41, 9:59:57, 0:54:16, 0:09:03, 0:00:00,, 26, 13
+ 2, 11, HX Soles on Fire, Emily Moss, F, 9:04:14, 10:27:41, 1:23:27, 0:13:55, 0:00:00,, 36, 35
+ 2, 12, HX Cirque du Sore Legs, Ollie Turner, M, 8:57:51, 9:50:53, 0:53:02, 0:08:50, 0:00:00,, 16, 10
+ 2, 13, HX Pacemakers, Ellen Fulcher, FV, 8:49:13, 9:55:18, 1:06:05, 0:11:01, 0:00:00,, 19, 28
+ 2, 14, Headington RoadRunners Mostly Ladies, Lysette Taplin, F, 9:05:41, 9:59:53, 0:54:12, 0:09:02, 0:00:00,, 25, 12
+ 2, 15, Headington RoadRunners Mostly Men,Tom Willner-Reid, M, 8:36:21, 9:22:09, 0:45:48, 0:07:38, 0:00:00,, 1, 2
+ 2, 16, Headington RoadRunners Vets, David Sawyer, MV, 9:00:07, 10:04:44, 1:04:37, 0:10:46, 0:00:00,, 27, 25
+ 2, 17, Lliswerry Runners, Owen Jones, MV, 9:13:28, 11:25:10, 2:11:42, 0:21:57, 0:00:00,Yes, 40, 40
+ 2, 18, Marlborough Rambunctious Caperers, Toby Marchington, M, 9:04:04, 10:10:23, 1:06:19, 0:11:03, 0:00:00,, 30, 29
+ 2, 19, Marlborough Righteous Crusaders, Russell Walker, M, 9:04:15, 10:08:14, 1:03:59, 0:10:40, 0:00:00,, 28, 24
+ 2, 20, Newbury AC Team A, Laura Buchanan, F, 8:37:28, 9:29:33, 0:52:05, 0:08:41, 0:00:00,,4, 9
+ 2, 21, Newbury AC Team B, Mireille Cook, F, 8:43:54, 9:35:42, 0:51:48, 0:08:38, 0:00:00,,8, 8
+ 2, 22, Pewsey Projectiles (PVRC), Julie Goulding, FV, 9:14:07, 10:22:13, 1:08:06, 0:11:21, 0:00:00,,35, 30
+ 2, 23, Reading Roadrunners Mostly Men, Darcie West, F, 8:43:03, 9:39:52, 0:56:49, 0:09:28, 0:00:00,,9, 16
+ 2, 24, Reading Roadrunners Mostly Ladies, Sarah Dooley, F, 8:42:09, 9:41:32, 0:59:23, 0:09:54, 0:00:00,,11, 20
+ 2, 25, Reading Roadrunners Veterans, Adrian Cull, MV, 8:59:52, 9:58:00, 0:58:08, 0:09:41, 0:00:00,,22, 18
+ 2, 26, Royal Wootton Bassett Hounds RC / Team 1, Simon Green, MV, 8:53:06, 9:58:03, 1:04:57, 0:10:50, 0:00:00,,23, 26
+ 2, 27, Royal Wootton Bassett Hounds RC / Team 2, Louise Kennelly, F, 9:22:10, 10:46:07, 1:23:57, 0:14:00, 0:00:00,,38, 36
+ 2, 28, Swindon Striders, Pete Ricks, MV, 8:59:49, 10:29:24, 1:29:35, 0:14:56, 0:00:00,,37, 38
+ 2, 29, Team Paolo, Joe Lynch, M, 9:05:04, 10:14:31, 1:09:27, 0:11:35, 0:00:00,,32, 32
+ 2, 30, Team Rosa, Paul Ridgley, MV, 8:51:38, 9:53:49, 1:02:11, 0:10:22, 0:00:00,,17, 23
+ 2, 31, Wood Reading, Shashank Sanena, M, 9:13:28, 10:21:38, 1:08:10, 0:11:22, 0:00:00,,34, 31
+ 2, 32, Vale of Aylesbury, Jodie Digby, F, 8:35:36, 9:27:11, 0:51:35, 0:08:36, 0:00:00,,2, 7
+ 2, 33, Witney Road Runners A, Anna Scrivens, F, 8:41:35, 9:29:50, 0:48:15, 0:08:03, 0:00:00,,5, 3
+ 2, 34, Witney Road Runners B, Alice Burrows, F, 8:51:54, 10:16:22, 1:24:28, 0:14:05, 0:00:00,,33, 37
+ 2, 35, Woodstock AC, Louis Warden, MV, 8:59:23, 9:57:58, 0:58:35, 0:09:46, 0:00:00,,21, 19
+ 2, 36, Wroughton Whippets, Brian Davies, M, 8:40:07, 9:30:05, 0:49:58, 0:08:20, 0:00:00,,6, 5
+ 2, 37, Whippets Wonder Women, Zoe Illingworth, F, 8:56:35, 9:58:20, 1:01:45, 0:10:17, 0:00:00,,24, 21
+ 2, 38, Whippet Greys, Jo Anderson, FV, 8:44:42, 9:50:27, 1:05:45, 0:10:57, 0:00:00,,15, 27
+ 2, 39, WHH Thoroughbreds, Chris Wilder, M, 8:58:27, 9:47:10, 0:48:43, 0:08:07, 0:00:00,,12, 4
+ 2, 40, Buckinghamshire Runners, Joe Correia, M, 9:22:13, 11:25:10, 2:02:57, 0:20:29, 0:00:00,,39, 39
+ 3, 1, Abingdon AC 1, Liz Mcgil, F, 9:27:48, 10:53:17, 1:25:29, 0:09:06, 0:00:00,,9, 22
+ 3, 2, Abingdon AC 2, James Hobson, M, 10:12:45, 11:50:19, 1:37:34, 0:10:23, 0:00:00,,33, 33
+ 3, 3, Alchester Red, Penny Hurbert, FV, 9:48:16, 11:19:38, 1:31:22, 0:09:43, 0:00:00,,22, 27
+ 3, 4, Alchester Blue, Andy Stickley, M, 10:08:45, 11:26:14, 1:17:29, 0:08:15, 0:00:00,,25, 18
+ 3, 5, Bearbrook A, Lucy Rudge, F, 9:55:36, 11:31:32, 1:35:56, 0:10:12, 0:00:00,,26, 31
+ 3, 6, Bearbrook 1, Mike Lemon, MV, 9:49:10, 11:06:12, 1:17:02, 0:08:12, 0:00:00,,14, 17
+ 3, 7, Compton Harriers RC 'A', Ryan Morris, M, 9:40:51, 10:49:25, 1:08:34, 0:07:18, 0:00:00,,8, 5
+ 3, 8, Compton Harriers RC 'B', Caroline Simms, F, 9:54:31, 11:35:48, 1:41:17, 0:10:46, 0:00:00,,27, 36
+ 3, 9, Eynsham Roadrunners A, Kerry Papps, M, 9:31:33, 10:41:28, 1:09:55, 0:07:26, 0:00:00,,5, 9
+ 3, 10, Eynsham Roadrunners B, Phil Hurst, MV, 9:59:57, 11:18:25, 1:18:28, 0:08:21, 0:00:00,,21, 20
+ 3, 11, HX Soles on Fire, Charmain Fowler-Jones, F, 10:27:41, 11:50:03, 1:22:22, 0:08:46, 0:00:00,,32, 21
+ 3, 12, HX Cirque du Sore Legs, Dave Randlesome, M, 9:50:53, 11:23:45, 1:32:52, 0:09:53, 0:00:00,,24, 28
+ 3, 13, HX Pacemakers, Matt Fowler-Jones, MV, 9:55:18, 11:11:02, 1:15:44, 0:08:03, 0:00:00,,17, 13
+ 3, 14, Headington RoadRunners Mostly Ladies, See Wah Cheng, M, 9:59:53, 11:11:47, 1:11:54, 0:07:39, 0:00:00,,18, 11
+ 3, 15, Headington RoadRunners Mostly Men, Marcus Shantry, M, 9:22:09, 10:31:03, 1:08:54, 0:07:20, 0:00:00,,1, 7
+ 3, 16, Headington RoadRunners Vets, Hanno Nickau, MV, 10:04:44, 11:39:17, 1:34:33, 0:10:04, 0:00:00,,29, 30
+ 3, 17, Lliswerry Runners, Chris Davies, MV, 11:25:10, 13:08:18, 1:43:08, 0:10:58, 0:00:00,,40, 38
+ 3, 18, Marlborough Rambunctious Caperers, Edward Wigmore, M, 10:10:23, 11:38:40, 1:28:17, 0:09:24, 0:00:00,,28, 25
+ 3, 19, Marlborough Righteous Crusaders, Sara Marchington, F, 10:08:14, 11:47:20, 1:39:06, 0:10:33, 0:00:00,,31, 34
+ 3, 20, Newbury AC Team A, David Livings, M, 9:29:33, 10:40:42, 1:11:09, 0:07:34, 0:00:00,,4, 10
+ 3, 21, Newbury AC Team B, Luke Day, M, 9:35:42, 10:53:49, 1:18:07, 0:08:19, 0:00:00,,10, 19
+ 3, 22, Pewsey Projectiles (PVRC), Richard Pitt, MV, 10:22:13, 12:02:13, 1:40:00, 0:10:38, 0:00:00,,35, 35
+ 3, 23, Reading Roadrunners Mostly Men, Ben Phillips, M, 9:39:52, 10:48:38, 1:08:46, 0:07:19, 0:00:00,,7, 6
+ 3, 24, Reading Roadrunners Mostly Ladies, Jennifer Hey, F, 9:41:32, 11:07:41, 1:26:09, 0:09:10, 0:00:00,,16, 23
+ 3, 25, Reading Roadrunners Veterans, Mike Worsfold, MV, 9:58:00, 11:14:36, 1:16:36, 0:08:09, 0:00:00,,20, 16
+ 3, 26, Royal Wootton Bassett Hounds RC / Team 1, Tom Juggins, M, 9:58:03, 11:04:04, 1:06:01, 0:07:01, 0:00:00,,12, 2
+ 3, 27, Royal Wootton Bassett Hounds RC / Team 2, Dan Molloy, MV, 10:46:07, 13:01:45, 2:15:38, 0:14:26, 0:00:00,,39, 40
+ 3, 28, Swindon Striders, Jackie Sayer, FV, 10:29:24, 12:32:57, 2:03:33, 0:13:09, 0:00:00,,37, 39
+ 3, 29, Team Paolo, Sue Graham, FV, 10:14:31, 11:51:27, 1:36:56, 0:10:19, 0:00:00,,34, 32
+ 3, 30, Team Rosa, Stuart Timms, M, 9:53:49, 11:20:41, 1:26:52, 0:09:14, 0:00:00,,23, 24
+ 3, 31, Wood Reading, Amy Unsworth, F, 10:21:38, 12:03:06, 1:41:28, 0:10:48, 0:00:00,,36, 37
+ 3, 32, Vale of Aylesbury, Adam Johnson, M, 9:27:11, 10:34:58, 1:07:47, 0:07:13, 0:00:00,,3, 4
+ 3, 33, Witney Road Runners A, Ed Hooper, M, 9:29:50, 10:34:49, 1:04:59, 0:06:55, 0:00:00,,2, 1
+ 3, 34, Witney Road Runners B, Joel Floyd, M, 10:16:22, 11:47:02, 1:30:40, 0:09:39, 0:00:00,,30, 26
+ 3, 35, Woodstock AC, Adam Smith, M, 9:57:58, 11:04:39, 1:06:41, 0:07:06, 0:00:00,,13, 3
+ 3, 36, Wroughton Whippets, Tim Charlesworth, M, 9:30:05, 10:46:06, 1:16:01, 0:08:05, 0:00:00,,6, 14
+ 3, 37, Whippets Wonder Women, Jessica Stueber, FV, 9:58:20, 11:13:13, 1:14:53, 0:07:58, 0:00:00,,19, 12
+ 3, 38, Whippet Greys, Neil Cutler, MV, 9:50:27, 11:07:02, 1:16:35, 0:08:09, 0:00:00,,15, 15
+ 3, 39, WHH Thoroughbreds, Ed Philips, M, 9:47:10, 10:56:32, 1:09:22, 0:07:23, 0:00:00,,11, 8
+ 3, 40, Buckinghamshire Runners, Andy Hallsworth, M, 11:25:10, 12:58:40, 1:33:30, 0:09:57, 0:00:00,,38, 29
+ 4, 1, Abingdon AC 1, Kim Sutherland, F, 10:53:17, 11:33:36, 0:40:19, 0:07:28, 0:00:00,,9, 8
+ 4, 2, Abingdon AC 2, Alistair Buchan, M, 11:50:19, 12:34:48, 0:44:29, 0:08:14, 0:00:00,,28, 15
+ 4, 3, Alchester Red, Katy Andrews, FV, 11:19:38, 12:34:40, 1:15:02, 0:13:54, 0:00:00,,27, 39
+ 4, 4, Alchester Blue, Courtney Wilde, F, 11:26:14, 12:28:41, 1:02:27, 0:11:34, 0:00:00,,26, 36
+ 4, 5, Bearbrook A, Rob Palmer, M, 11:31:32, 12:20:24, 0:48:52, 0:09:03, 0:00:00,,24, 23
+ 4, 6, Bearbrook 1, Brendan Cradden, MV, 11:06:12, 12:10:54, 1:04:42, 0:11:59, 0:00:00,,22, 37
+ 4, 7, Compton Harriers RC 'A', Richard Knight, M, 10:49:25, 11:25:03, 0:35:38, 0:06:36, 0:00:00,,7, 1
+ 4, 8, Compton Harriers RC 'B', Jamie Tardi, M, 11:35:48, 12:13:12, 0:37:24, 0:06:56, 0:00:00,,23, 3
+ 4, 9, Eynsham Roadrunners A, Laura Leach, F, 10:41:28, 11:23:28, 0:42:00, 0:07:47, 0:00:00,,4, 11
+ 4, 10, Eynsham Roadrunners B, Alison Craggs, F, 11:18:25, 12:10:53, 0:52:28, 0:09:43, 0:00:00,,21, 27
+ 4, 11, HX Soles on Fire, Steve Newbold, MV, 11:50:03, 12:41:41, 0:51:38, 0:09:34, 0:00:00,,33, 26
+ 4, 12, HX Cirque du Sore Legs, Maddie Turner, F, 11:23:45, 12:22:30, 0:58:45, 0:10:53, 0:00:00,,25, 33
+ 4, 13, HX Pacemakers, Liz D'Arcy-Evans, FV, 11:11:02, 12:07:56, 0:56:54, 0:10:32, 0:00:00,,19, 32
+ 4, 14, Headington RoadRunners Mostly Ladies, Margy Schueler, F, 11:11:47, 11:55:59, 0:44:12, 0:08:11, 0:00:00,,17, 12
+ 4, 15, Headington RoadRunners Mostly Men, Joe Lyne, M, 10:31:03, 11:10:08, 0:39:05, 0:07:14, 0:00:00,,1, 6
+ 4, 16, Headington RoadRunners Vets, Chris Childs, FV, 11:39:17, 12:35:18, 0:56:01, 0:10:22, 0:00:00,,29, 31
+ 4, 17, Lliswerry Runners, Sonja Breese, FV, 12:03:06, 13:02:35, 0:59:29, 0:11:01, 0:00:00,Yes, 40, 34
+ 4, 18, Marlborough Rambunctious Caperers, Abbie Holmes, F, 11:38:40, 12:40:55, 1:02:15, 0:11:32, 0:00:00,,31, 35
+ 4, 19, Marlborough Righteous Crusaders, Alyce ?, F, 11:47:20, 12:41:33, 0:54:13, 0:10:02, 0:00:00,,32, 29
+ 4, 20, Newbury AC Team A, Hannah Rees, F, 10:40:42, 11:25:00, 0:44:18, 0:08:12, 0:00:00,,6, 13
+ 4, 21, Newbury AC Team B, Rebecca Elsmere, F, 10:53:49, 11:43:00, 0:49:11, 0:09:06, 0:00:00,,11, 24
+ 4, 22, Pewsey Projectiles (PVRC), Christopher Smith, MV, 12:02:13, 12:56:14, 0:54:01, 0:10:00, 0:00:00,,36, 28
+ 4, 23, Reading Roadrunners Mostly Men, Nikki Gray, F, 10:48:38, 11:26:13, 0:37:35, 0:06:58, 0:00:00,,8, 4
+ 4, 24, Reading Roadrunners Mostly Ladies, Julie Rainbow, FV, 11:07:41, 11:54:17, 0:46:36, 0:08:38, 0:00:00,,16, 17
+ 4, 25, Reading Roadrunners Veterans, Clive Alderson, MV, 11:14:36, 11:56:25, 0:41:49, 0:07:45, 0:00:00,,18, 10
+ 4, 26, Royal Wootton Bassett Hounds RC / Team 1, Rebecca Taylor, F, 11:04:04, 11:52:17, 0:48:13, 0:08:56, 0:00:00,,13, 21
+ 4, 27, Royal Wootton Bassett Hounds RC / Team 2, Yvie Fisher, FV, 12:17:00, 13:50:40, 1:33:40, 0:17:21, 0:00:00,Yes, 39, 40
+ 4, 28, Swindon Striders, Sarah Wintle, F, 12:17:00, 13:29:05, 1:12:05, 0:13:21, 0:00:00,Yes, 37, 38
+ 4, 29, Team Paolo, Jane Coulcher, FV, 11:51:27, 12:38:33, 0:47:06, 0:08:43, 0:00:00,,30, 18
+ 4, 30, Team Rosa, David Finch, MV, 11:20:41, 12:09:21, 0:48:40, 0:09:01, 0:00:00,,20, 22
+ 4, 31, Wood Reading, Michelle Carey, F, 12:03:06, 12:50:47, 0:47:41, 0:08:50, 0:00:00,,35, 19
+ 4, 32, Vale of Aylesbury, Sarah Pearse, F, 10:34:58, 11:19:23, 0:44:25, 0:08:14, 0:00:00,,3, 14
+ 4, 33, Witney Road Runners A, Martha Sherwood, F, 10:34:49, 11:16:27, 0:41:38, 0:07:43, 0:00:00,,2, 9
+ 4, 34, Witney Road Runners B, Matthew Clatworthy, M, 11:47:02, 12:42:57, 0:55:55, 0:10:21, 0:00:00,,34, 30
+ 4, 35, Woodstock AC, Marc Mcleaning, M, 11:04:39, 11:54:07, 0:49:28, 0:09:10, 0:00:00,,15, 25
+ 4, 36, Wroughton Whippets, Dillon Howe, M, 10:46:06, 11:23:44, 0:37:38, 0:06:58, 0:00:00,,5, 5
+ 4, 37, Whippets Wonder Women, Harley Coram, M, 11:13:13, 11:53:05, 0:39:52, 0:07:23, 0:00:00,,14, 7
+ 4, 38, Whippet Greys, Craig Brett, MV, 11:07:02, 11:52:12, 0:45:10, 0:08:22, 0:00:00,,12, 16
+ 4, 39, WHH Thoroughbreds, Simon Julyan, M, 10:56:32, 11:33:52, 0:37:20, 0:06:55, 0:00:00,,10, 2
+ 4, 40, Buckinghamshire Runners, Jamie Singh-Basra, M, 12:22:20, 13:10:13, 0:47:53, 0:08:52, 0:00:00,Yes, 38, 20
+ 9, 1, Abingdon AC 1, Harrison Read, M, 15:32:12, 16:50:03, 1:17:51, 0:07:17, 0:00:00,,2, 8
+ 9, 2, Abingdon AC 2, Julia Pennington, F, 16:31:30, 18:06:44, 1:35:14, 0:08:54, 0:00:00,,22, 27
+ 9, 3, Alchester Red, Alasdair Kerr, MV, 16:57:30, 18:35:20, 1:37:50, 0:09:09, 0:00:00,,31, 29
+ 9, 4, Alchester Blue, Alan Bowen, M, 16:46:55, 18:16:52, 1:29:57, 0:08:24, 0:00:00,,28, 24
+ 9, 5, Bearbrook A, Tba Tba, MV, #N/A, #N/A, #N/A, #N/A, 0:00:00,,,
+ 9, 6, Bearbrook 1, Ian Higginson, MV, 16:45:15, 18:14:24, 1:29:09, 0:08:20, 0:00:00,,24, 23
+ 9, 7, Compton Harriers RC 'A', Phil Marsh, MV, 16:19:15, 17:41:23, 1:22:08, 0:07:41, 0:00:00,,9, 14
+ 9, 8, Compton Harriers RC 'B', Jenni Beadle, F, 16:49:30, 18:33:09, 1:43:39, 0:09:41, 0:00:00,,29, 31
+ 9, 9, Eynsham Roadrunners A, Dave Hemprich-Bennett, M, 16:16:10, 17:38:33, 1:22:23, 0:07:42, 0:00:00,,8, 16
+ 9, 10, Eynsham Roadrunners B, Justin Byworth, MV, 16:23:45, 18:03:30, 1:39:45, 0:09:19, 0:00:00,,16, 30
+ 9, 11, HX Soles on Fire, Ben Triggs, M, 16:57:55, 18:22:24, 1:24:29, 0:07:54, 0:00:00,,33, 18
+ 9, 12, HX Cirque du Sore Legs, Emin Thorose, M, 16:32:22, 18:09:08, 1:36:46, 0:09:03, 0:00:00,,21, 28
+ 9, 13, HX Pacemakers, Trevor Hunter, MV, 16:44:32, 18:09:04, 1:24:32, 0:07:54, 0:00:00,,18, 19
+ 9, 14, Headington RoadRunners Mostly Ladies, Natasha Flemming, F, 16:21:45, 18:26:10, 2:04:25, 0:11:38, 0:00:00,,17, 36
+ 9, 15, Headington RoadRunners Mostly Men, Harry Geddes, M, 15:38:40, 16:54:29, 1:15:49, 0:07:05, 0:00:00,,5, 7
+ 9, 16, Headington RoadRunners Vets, James Messer, MV, 16:37:45, 18:10:35, 1:32:50, 0:08:41, 0:00:00,,26, 26
+ 9, 17, Lliswerry Runners, Huw Evans, MV, 16:47:00, 18:58:30, 2:11:30, 0:12:17, 0:00:00,Yes, 38, 37
+ 9, 18, Marlborough Rambunctious Caperers, Steve Williams, M, 16:33:21, 18:19:39, 1:46:18, 0:09:56, 0:00:00,,30, 32
+ 9, 19, Marlborough Righteous Crusaders, Andy Hayley, MV, 16:38:30, 18:08:50, 1:30:20, 0:08:27, 0:00:00,,32, 25
+ 9, 20, Newbury AC Team A, Andrew Ind, MV, 15:30:10, 16:39:43, 1:09:33, 0:06:30, 0:00:00,,1, 3
+ 9, 21, Newbury AC Team B, Martin Walker, MV, 16:21:15, 17:46:33, 1:25:18, 0:07:58, 0:00:00,,11, 20
+ 9, 22, Pewsey Projectiles (PVRC), Steve East, MV, 16:36:34, 17:58:29, 1:21:55, 0:07:39, 0:00:00,,19, 13
+ 9, 23, Reading Roadrunners Mostly Men, Stephen Ridley, M, 15:45:30, 16:53:00, 1:07:30, 0:06:19, 0:00:00,,4, 2
+ 9, 24, Reading Roadrunners Mostly Ladies, Fiona Kingston, F, 16:13:52, 17:41:55, 1:28:03, 0:08:14, 0:00:00,,15, 22
+ 9, 25, Reading Roadrunners Veterans, Chris Webber, MV, 16:23:55, 17:44:49, 1:20:54, 0:07:34, 0:00:00,,12, 10
+ 9, 26, Royal Wootton Bassett Hounds RC / Team 1, Matt Griffiths, M, 16:29:01, #N/A, #N/A, #N/A, 0:00:00,,,
+ 9, 27, Royal Wootton Bassett Hounds RC / Team 2, Chiaki Beis, F, 16:57:45, 18:47:57, 1:50:12, 0:10:18, 0:00:00,,37, 33
+ 9, 28, Swindon Striders, Barry Butler, MV, 16:40:26, 18:34:00, 1:53:34, 0:10:37, 0:00:00,,35, 34
+ 9, 29, Team Paolo, Andy Burtenshaw, MV, 16:36:42, 18:59:35, 2:22:53, 0:13:21, 0:00:00,,34, 38
+ 9, 30, Team Rosa, Damian Stanley, MV, 17:11:30, 18:26:10, 1:14:40, 0:06:59, 0:00:00,,25, 4
+ 9, 31, Wood Reading, John Hible, M, 16:26:30, 17:52:14, 1:25:44, 0:08:01, 0:00:00,,23, 21
+ 9, 32, Vale of Aylesbury, Charlie May, M, 16:11:12, 17:26:54, 1:15:42, 0:07:04, 0:00:00,,6, 6
+ 9, 33, Witney Road Runners A, Matt Lock, M, 15:48:45, 16:51:50, 1:03:05, 0:05:54, 0:00:00,,3, 1
+ 9, 34, Witney Road Runners B, Craig Gibbin, M, 16:36:50, 17:58:43, 1:21:53, 0:07:39, 0:00:00,,27, 12
+ 9, 35, Woodstock AC, Rob Webster, MV, 16:45:45, 18:07:26, 1:21:41, 0:07:38, 0:00:00,,20, 11
+ 9, 36, Wroughton Whippets, Paul Bailey, M, 16:08:45, 17:27:59, 1:19:14, 0:07:24, 0:00:00,,7, 9
+ 9, 37, Whippets Wonder Women, Alex Smith, M, 16:28:22, 17:52:30, 1:24:08, 0:07:52, 0:00:00,,14, 17
+ 9, 38, Whippet Greys, Kevin Smith, MV, 16:24:56, 17:39:54, 1:14:58, 0:07:00, 0:00:00,,13, 5
+ 9, 39, WHH Thoroughbreds, Paul Wileman, M, 16:14:02, 17:36:16, 1:22:14, 0:07:41, 0:00:00,,10, 15
+ 9, 40, Buckinghamshire Runners, Keith Harding, M, 16:35:30, 18:36:10, 2:00:40, 0:11:17, 0:00:00,,36, 35
+ 10, 1, Abingdon AC 1, Cameron Weir, M, 16:50:03, 17:48:07, 0:58:04, 0:06:11, 0:00:00,,2, 4
+ 10, 2, Abingdon AC 2, Ben Zabell, M, 17:30:00, 18:48:02, 1:18:02, 0:08:18, 0:00:00,Yes, 21, 27
+ 10, 3, Alchester Red, Simon Worfolk, MV, 17:30:00, 18:46:01, 1:16:01, 0:08:05, 0:00:00,Yes, 32, 22
+ 10, 4, Alchester Blue, Chris Lumley, M, 17:30:00, 18:34:03, 1:04:03, 0:06:49, 0:00:00,Yes, 27, 10
+ 10, 5, Bearbrook A, Tba Tba, FV, 17:30:00, #N/A, #N/A, #N/A, 0:00:00,,,
+ 10, 6, Bearbrook 1, Ruth Dunkin, FV, 17:30:00, 18:50:25, 1:20:25, 0:08:33, 0:00:00,Yes, 25, 29
+ 10, 7, Compton Harriers RC 'A', Vinny Page, M, 17:30:00, 18:39:07, 1:09:07, 0:07:21, 0:00:00,Yes, 9, 17
+ 10, 8, Compton Harriers RC 'B', Matt Ham, M, 17:30:00, 18:46:03, 1:16:03, 0:08:05, 0:00:00,Yes, 29, 23
+ 10, 9, Eynsham Roadrunners A, Mark Baker, M, 17:30:00, 18:32:41, 1:02:41, 0:06:40, 0:00:00,Yes, 7, 9
+ 10, 10, Eynsham Roadrunners B, Simon Walker, MV, 17:30:00, 18:48:21, 1:18:21, 0:08:20, 0:00:00,Yes, 16, 28
+ 10, 11, HX Soles on Fire, Matt Ryan, M, 17:30:00, 18:38:45, 1:08:45, 0:07:19, 0:00:00,Yes, 33, 14
+ 10, 12, HX Cirque du Sore Legs, Fred Newton, M, 17:30:00, 18:41:54, 1:11:54, 0:07:39, 0:00:00,Yes, 18, 19
+ 10, 13, HX Pacemakers, Olly Turner, MV, 17:30:00, 18:43:40, 1:13:40, 0:07:50, 0:00:00,Yes, 17, 20
+ 10, 14, Headington RoadRunners Mostly Ladies, Sarah Evered, F, 17:30:00, 18:51:15, 1:21:15, 0:08:39, 0:00:00,Yes, 19, 31
+ 10, 15, Headington RoadRunners Mostly Men, John Fenning, M, 16:54:29, 17:54:47, 1:00:18, 0:06:25, 0:00:00,,5, 5
+ 10, 16, Headington RoadRunners Vets, Anita James, FV, 17:30:00, 19:03:12, 1:33:12, 0:09:55, 0:00:00,Yes, 30, 36
+ 10, 17, Lliswerry Runners, Jo Voisy, FV, 17:30:00, 19:19:19, 1:49:19, 0:11:38, 0:00:00,Yes, 38, 37
+ 10, 18, Marlborough Rambunctious Caperers, Fiona Slevin-Brown, FV, 17:30:00, 18:38:49, 1:08:49, 0:07:19, 0:00:00,Yes, 28, 15
+ 10, 19, Marlborough Righteous Crusaders, Jess White, F, 17:30:00, 18:34:20, 1:04:20, 0:06:51, 0:00:00,Yes, 31, 11
+ 10, 20, Newbury AC Team A, Jacob Rainer, M, 16:39:43, 17:33:20, 0:53:37, 0:05:42, 0:00:00,,1, 1
+ 10, 21, Newbury AC Team B, Robert Jewell, F, 17:30:00, 18:30:55, 1:00:55, 0:06:29, 0:00:00,Yes, 11, 6
+ 10, 22, Pewsey Projectiles (PVRC), Faith Geraghty, F, 17:30:00, 18:50:55, 1:20:55, 0:08:36, 0:00:00,Yes, 20, 30
+ 10, 23, Reading Roadrunners Mostly Men, Dave Boulton, M, 16:53:00, 17:49:08, 0:56:08, 0:05:58, 0:00:00,,3, 3
+ 10, 24, Reading Roadrunners Mostly Ladies, Chloe Lloyd, F, 17:30:00, 18:45:30, 1:15:30, 0:08:02, 0:00:00,Yes, 15, 21
+ 10, 25, Reading Roadrunners Veterans, Pete Jewell, MV, 17:30:00, 18:32:36, 1:02:36, 0:06:40, 0:00:00,Yes, 12, 8
+ 10, 26, Royal Wootton Bassett Hounds RC / Team 1, Simon Rawlings, MV, 17:30:00, 18:46:15, 1:16:15, 0:08:07, 0:00:00,,,24
+ 10, 27, Royal Wootton Bassett Hounds RC / Team 2, Richard Curtis, MV, 17:30:00, 18:54:55, 1:24:55, 0:09:02, 0:00:00,Yes, 37, 33
+ 10, 28, Swindon Striders, Jackie Sayer, FV, 17:30:00, 19:19:55, 1:49:55, 0:11:42, 0:00:00,Yes, 35, 38
+ 10, 29, Team Paolo, John Gulliver, MV, 17:30:00, 18:47:21, 1:17:21, 0:08:14, 0:00:00,Yes, 34, 25
+ 10, 30, Team Rosa, Andrew Gray, MV, 17:30:00, 18:39:21, 1:09:21, 0:07:23, 0:00:00,Yes, 22, 18
+ 10, 31, Wood Reading, Peter Trendler, M, 17:30:00, 18:54:44, 1:24:44, 0:09:01, 0:00:00,Yes, 24, 32
+ 10, 32, Vale of Aylesbury, Thomas Fell, M, 17:26:54, 18:22:00, 0:55:06, 0:05:52, 0:00:00,,6, 2
+ 10, 33, Witney Road Runners A, Kyle Turner, M, 16:51:50, 17:53:27, 1:01:37, 0:06:33, 0:00:00,,4, 7
+ 10, 34, Witney Road Runners B, Mark Mcleod, M, 17:30:00, 18:39:02, 1:09:02, 0:07:21, 0:00:00,Yes, 26, 16
+ 10, 35, Woodstock AC, Elizabeth Welsh, F, 17:30:00, 18:59:02, 1:29:02, 0:09:28, 0:00:00,Yes, 23, 35
+ 10, 36, Wroughton Whippets, Aine Halton-Hanley, F, 17:27:59, 18:35:41, 1:07:42, 0:07:12, 0:00:00,,8, 13
+ 10, 37, Whippets Wonder Women, Kate Jacobs, F, 17:30:00, 18:35:14, 1:05:14, 0:06:56, 0:00:00,Yes, 13, 12
+ 10, 38, Whippet Greys, Hannah Brown, FV, 17:30:00, 18:55:01, 1:25:01, 0:09:03, 0:00:00,Yes, 14, 34
+ 10, 39, WHH Thoroughbreds, Lisa O'Neill, FV, 17:30:00, 18:47:51, 1:17:51, 0:08:17, 0:00:00,Yes, 10, 26
+ 10, 40, Buckinghamshire Runners, Simon Deyes, MV, 17:30:00, 19:24:32, 1:54:32, 0:12:11, 0:00:00,Yes, 36, 39
+ 5,1,Abingdon AC 1, Joe Evans-Murray, M, 11:33:36, 12:40:53, 1:07:17, 0:06:40, 0:00:00,, 8, 2
+ 5,2,Abingdon AC 2,James Williard,M,12:34:48,13:48:56,1:14:08,0:07:20,0:00:00,,22,7
+ 5,3,Alchester Red,Annelies Henshall,F,12:34:40,14:17:20,1:42:40,0:10:10,0:00:00,,31,32
+ 5,4,Alchester Blue,Graham Grieve,MV,12:28:41,14:10:15,1:41:34,0:10:03,0:00:00,,27,31
+ 5,5,Bearbrook A,Jonathan Rudge,MV,12:20:24,14:00:06,1:39:42,0:09:52,0:00:00,,25,30
+ 5,6,Bearbrook 1,Kathy Klein,FV,12:10:54,13:58:19,1:47:25,0:10:38,0:00:00,,24,36
+ 5,7,Compton Harriers RC 'A',Tim Marsters,MV,11:25:03,12:37:59,1:12:56,0:07:13,0:00:00,,6,6
+ 5,8,Compton Harriers RC 'B',Charlotte Aitken,F,12:13:12,13:56:52,1:43:40,0:10:16,0:00:00,,23,34
+ 5,9,Eynsham Roadrunners A,Benedict Pollard,MV,11:23:28,12:34:55,1:11:27,0:07:04,0:00:00,,5,5
+ 5,10,Eynsham Roadrunners B,Rhea Douglas,F,12:10:53,13:40:44,1:29:51,0:08:54,0:00:00,,19,19
+ 5,11,HX Soles on Fire,Irfan Ikram,M,12:41:41,14:29:12,1:47:31,0:10:39,0:00:00,,35,37
+ 5,12,HX Cirque du Sore Legs,Christina Sleet,F,12:22:30,14:00:12,1:37:42,0:09:40,0:00:00,,26,24
+ 5,13,HX Pacemakers,Guy D'Arcy-Evans,MV,12:07:56,13:44:43,1:36:47,0:09:35,0:00:00,,21,23
+ 5,14,Headington RoadRunners Mostly Ladies,Amy Flaxman,F,11:55:59,13:34:57,1:38:58,0:09:48,0:00:00,,17,28
+ 5,15,Headington RoadRunners Mostly Men,Lieben Dickens,F,11:10:08,12:29:23,1:19:15,0:07:51,0:00:00,,2,11
+ 5,16,Headington RoadRunners Vets,Martin Slevin,MV,12:35:18,14:13:15,1:37:57,0:09:42,0:00:00,,29,25
+ 5,17,Lliswerry Runners,Jacqui Tudhope,F,13:02:35,15:03:49,2:01:14,0:12:00,0:00:00,,40,40
+ 5,18,Marlborough Rambunctious Caperers,Andrew Mcfarlane,M,12:40:55,14:19:06,1:38:11,0:09:43,0:00:00,,33,26
+ 5,19,Marlborough Righteous Crusaders,Nick Wilkinson,M,12:41:33,14:24:34,1:43:01,0:10:12,0:00:00,,34,33
+ 5,20,Newbury AC Team A,Stephen Elsmere,M,11:25:00,12:34:25,1:09:25,0:06:52,0:00:00,,4,4
+ 5,21,Newbury AC Team B,Jeff Bird,M,11:43:00,13:06:06,1:23:06,0:08:14,0:00:00,,11,14
+ 5,22,Pewsey Projectiles (PVRC),Daniel Excell-Smith,M,12:56:14,14:13:05,1:16:51,0:07:37,0:00:00,,28,9
+ 5,23,Reading Roadrunners Mostly Men,Matthew Sarjent,M,11:26:13,12:32:58,1:06:45,0:06:37,0:00:00,,3,1
+ 5,24,Reading Roadrunners Mostly Ladies,Pip White,F,11:54:17,13:21:58,1:27:41,0:08:41,0:00:00,,15,18
+ 5,25,Reading Roadrunners Veterans,Eoin Mcleod,MV,11:56:25,13:20:40,1:24:15,0:08:20,0:00:00,,14,16
+ 5,26,Royal Wootton Bassett Hounds RC / Team 1,Paul Borgman,MV,11:52:17,13:31:25,1:39:08,0:09:49,0:00:00,,16,29
+ 5,27,Royal Wootton Bassett Hounds RC / Team 2,Jon Bateman,MV,12:50:00,14:28:45,1:38:45,0:09:47,0:00:00,Yes,39,27
+ 5,28,Swindon Striders,Sarah Tilling,F,13:29:05,15:05:42,1:36:37,0:09:34,0:00:00,,37,22
+ 5,29,Team Paolo,Susie Whyte,F,12:38:33,14:29:13,1:50:40,0:10:57,0:00:00,,36,38
+ 5,30,Team Rosa,James Weaver,M,12:09:21,13:42:27,1:33:06,0:09:13,0:00:00,,20,21
+ 5,31,Wood Reading,Andrew Sawer,M,12:50:47,14:17:53,1:27:06,0:08:37,0:00:00,,32,17
+ 5,32,Vale of Aylesbury,Ben Riley,M,11:19:23,12:40:50,1:21:27,0:08:04,0:00:00,,7,12
+ 5,33,Witney Road Runners A,Luke Edwards,M,11:16:27,12:24:03,1:07:36,0:06:42,0:00:00,,1,3
+ 5,34,Witney Road Runners B,Chris Gardner,M,12:42:57,14:14:18,1:31:21,0:09:03,0:00:00,,30,20
+ 5,35,Woodstock AC,Liz O'Farrell,F,11:54:07,13:40:28,1:46:21,0:10:32,0:00:00,,18,35
+ 5,36,Wroughton Whippets,Paul Southwood,M,11:23:44,12:41:41,1:17:57,0:07:43,0:00:00,,9,10
+ 5,37,Whippets Wonder Women,Louise Wadsworth,F,11:53:05,13:16:34,1:23:29,0:08:16,0:00:00,,13,15
+ 5,38,Whippet Greys,Matt Nadin,MV,11:52:12,13:14:50,1:22:38,0:08:11,0:00:00,,12,13
+ 5,39,WHH Thoroughbreds,Martin Koorts,M,11:33:52,12:49:53,1:16:01,0:07:32,0:00:00,,10,8
+ 5,40,Buckinghamshire Runners,Victoria Oliver,F,13:10:13,15:03:44,1:53:31,0:11:14,0:00:00,,38,39
+ 6,1,Abingdon AC 1,Craig Jardine,M,12:40:53,13:45:16,1:04:23,0:06:11,0:00:00,,3,1
+ 6,2,Abingdon AC 2,David Adams,M,13:45:00,15:23:04,1:38:04,0:09:26,0:00:00,Yes,23,29
+ 6,3,Alchester Red,Jonathan White,M,13:45:00,15:09:41,1:24:41,0:08:09,0:00:00,Yes,29,14
+ 6,4,Alchester Blue,Lewis Long,M,13:45:00,15:24:36,1:39:36,0:09:35,0:00:00,Yes,32,33
+ 6,5,Bearbrook A,Dan Amsby,M,13:45:00,15:21:22,1:36:22,0:09:16,0:00:00,Yes,27,26
+ 6,6,Bearbrook 1,Phil Clayton,MV,13:45:00,15:16:48,1:31:48,0:08:50,0:00:00,Yes,25,23
+ 6,7,Compton Harriers RC 'A',Susanne Enhard,FV,12:37:59,14:07:04,1:29:05,0:08:34,0:00:00,,9,20
+ 6,8,Compton Harriers RC 'B',Richard Bickerton,M,13:45:00,15:21:50,1:36:50,0:09:19,0:00:00,Yes,26,27
+ 6,9,Eynsham Roadrunners A,Matt Daniels,M,12:34:55,13:58:32,1:23:37,0:08:02,0:00:00,,6,11
+ 6,10,Eynsham Roadrunners B,Nick Sheard,MV,13:40:44,15:06:43,1:25:59,0:08:16,0:00:00,,18,17
+ 6,11,HX Soles on Fire,Becky Hawkes,F,13:45:00,15:23:16,1:38:16,0:09:27,0:00:00,Yes,34,30
+ 6,12,HX Cirque du Sore Legs,Lisa Da Silva,F,13:45:00,15:06:40,1:21:40,0:07:51,0:00:00,Yes,21,7
+ 6,13,HX Pacemakers,Charles Pugh,MV,13:44:43,15:16:26,1:31:43,0:08:49,0:00:00,,19,22
+ 6,14,Headington RoadRunners Mostly Ladies,Anna Corby,F,13:34:57,14:58:17,1:23:20,0:08:01,0:00:00,,16,10
+ 6,15,Headington RoadRunners Mostly Men,Sam Garforth,M,12:29:23,13:34:59,1:05:36,0:06:18,0:00:00,,1,2
+ 6,16,Headington RoadRunners Vets,Douglas Simpson,MV,13:45:00,15:11:59,1:26:59,0:08:22,0:00:00,Yes,28,18
+ 6,17,Lliswerry Runners,Jeremy Dickson,MV,13:45:00,15:24:17,1:39:17,0:09:33,0:00:00,Yes,40,32
+ 6,18,Marlborough Rambunctious Caperers,Bill Lansbury,M,13:45:00,15:14:34,1:29:34,0:08:37,0:00:00,Yes,31,21
+ 6,19,Marlborough Righteous Crusaders,Rob Pyle,M,13:45:00,15:31:58,1:46:58,0:10:17,0:00:00,Yes,35,36
+ 6,20,Newbury AC Team A,Matthew Green,M,12:34:25,13:41:39,1:07:14,0:06:28,0:00:00,,2,3
+ 6,21,Newbury AC Team B,Daniel Green,M,13:06:06,14:28:12,1:22:06,0:07:54,0:00:00,,11,8
+ 6,22,Pewsey Projectiles (PVRC),Robert Leatherby,M,13:45:00,15:01:13,1:16:13,0:07:20,0:00:00,Yes,24,4
+ 6,23,Reading Roadrunners Mostly Men,Rob Tan,M,12:32:58,13:56:07,1:23:09,0:08:00,0:00:00,,4,9
+ 6,24,Reading Roadrunners Mostly Ladies,Jamie Smith,M,13:21:58,15:00:56,1:38:58,0:09:31,0:00:00,,17,31
+ 6,25,Reading Roadrunners Veterans,Tony Page,MV,13:20:40,14:38:50,1:18:10,0:07:31,0:00:00,,12,5
+ 6,26,Royal Wootton Bassett Hounds RC / Team 1,Antony Oakes,M,13:31:25,14:51:12,1:19:47,0:07:40,0:00:00,,15,6
+ 6,27,Royal Wootton Bassett Hounds RC / Team 2,Martin Tanner,MV,13:45:00,16:01:47,2:16:47,0:13:09,0:00:00,Yes,39,40
+ 6,28,Swindon Striders,Andy Trybus,M,13:45:00,15:42:17,1:57:17,0:11:17,0:00:00,Yes,37,38
+ 6,29,Team Paolo,Darren Readman,MV,13:45:00,15:34:27,1:49:27,0:10:31,0:00:00,Yes,36,37
+ 6,30,Team Rosa,Stef Cook,FV,13:42:27,15:19:23,1:36:56,0:09:19,0:00:00,,20,28
+ 6,31,Wood Reading,Tim Holmes,M,13:45:00,15:13:00,1:28:00,0:08:28,0:00:00,Yes,30,19
+ 6,32,Vale of Aylesbury,Richard Day,MV,12:40:50,14:05:01,1:24:11,0:08:06,0:00:00,,7,12
+ 6,33,Witney Road Runners A,Jack Gavin,M,12:24:03,13:57:17,1:33:14,0:08:58,0:00:00,,5,24
+ 6,34,Witney Road Runners B,Jessica Wright,F,13:45:00,15:31:31,1:46:31,0:10:15,0:00:00,Yes,33,35
+ 6,35,Woodstock AC,Lucy Dunn,F,13:40:28,15:23:33,1:43:05,0:09:55,0:00:00,,22,34
+ 6,36,Wroughton Whippets,Johnny Bailey,M,12:41:41,14:06:13,1:24:32,0:08:08,0:00:00,,8,13
+ 6,37,Whippets Wonder Women,Becky Lafford,F,13:16:34,14:41:35,1:25:01,0:08:10,0:00:00,,13,15
+ 6,38,Whippet Greys,Mark Naylor,MV,13:14:50,14:50:57,1:36:07,0:09:15,0:00:00,,14,25
+ 6,39,WHH Thoroughbreds,Joel Vaughan,M,12:49:53,14:15:09,1:25:16,0:08:12,0:00:00,,10,16
+ 6,40,Buckinghamshire Runners,Nathan Jones,F,13:45:00,15:45:57,2:00:57,0:11:38,0:00:00,Yes,38,39
+7,1,Abingdon AC 1,Jack Miller,M,13:45:16,14:42:03,0:56:47,0:06:14,0:00:00,,2,1
+7,2,Abingdon AC 2,Tim Foxall,M,14:00:00,15:17:29,1:17:29,0:08:31,0:00:00,Yes,21,21
+7,3,Alchester Red,Laura Rundall-Hadley,F,14:00:00,15:23:09,1:23:09,0:09:08,0:00:00,Yes,27,26
+7,4,Alchester Blue,Nikki Fenn,F,14:00:00,15:23:09,1:23:09,0:09:08,0:00:00,Yes,31,26
+7,5,Bearbrook A,Sarah Hooper,F,14:00:00,15:37:15,1:37:15,0:10:41,0:00:00,Yes,32,37
+7,6,Bearbrook 1,Phil Clayton,MV,14:00:00,15:31:34,1:31:34,0:10:04,0:00:00,Yes,26,34
+7,7,Compton Harriers RC 'A',Ken Rodgers,M,14:00:00,15:21:02,1:21:02,0:08:54,0:00:00,Yes,10,23
+7,8,Compton Harriers RC 'B',Freda Ip,F,14:00:00,15:31:33,1:31:33,0:10:04,0:00:00,Yes,28,33
+7,9,Eynsham Roadrunners A,Kate Allred,FV,14:00:00,15:11:11,1:11:11,0:07:49,0:00:00,Yes,6,10
+7,10,Eynsham Roadrunners B,John Rowland,MV,14:00:00,15:12:04,1:12:04,0:07:55,0:00:00,Yes,18,11
+7,11,HX Soles on Fire,Phil Coker,M,14:00:00,15:43:37,1:43:37,0:11:23,0:00:00,Yes,36,39
+7,12,HX Cirque du Sore Legs,Graham Arnott,M,14:00:00,15:26:21,1:26:21,0:09:29,0:00:00,Yes,23,29
+7,13,HX Pacemakers,Simon Adams,MV,14:00:00,15:31:08,1:31:08,0:10:01,0:00:00,Yes,22,32
+7,14,Headington RoadRunners Mostly Ladies,Susie Power,F,14:00:00,15:12:09,1:12:09,0:07:56,0:00:00,Yes,16,12
+7,15,Headington RoadRunners Mostly Men,Mary Scott,F,13:34:59,14:43:06,1:08:07,0:07:29,0:00:00,,3,5
+7,16,Headington RoadRunners Vets,Sean Collins,MV,14:00:00,15:28:42,1:28:42,0:09:45,0:00:00,Yes,30,30
+7,17,Lliswerry Runners,Mark Breese,MV,14:00:00,15:34:44,1:34:44,0:10:25,0:00:00,Yes,40,35
+7,18,Marlborough Rambunctious Caperers,Andrew Dugdale,M,14:00:00,15:09:56,1:09:56,0:07:41,0:00:00,Yes,24,9
+7,19,Marlborough Righteous Crusaders,Kevin Sandall,M,14:00:00,15:09:44,1:09:44,0:07:40,0:00:00,Yes,33,8
+7,20,Newbury AC Team A,Peter Jewell,M,13:41:39,14:39:03,0:57:24,0:06:18,0:00:00,,1,2
+7,21,Newbury AC Team B,Ben Wickens,M,14:00:00,15:12:15,1:12:15,0:07:56,0:00:00,Yes,11,13
+7,22,Pewsey Projectiles (PVRC),Emma Barley,F,14:00:00,15:12:36,1:12:36,0:07:59,0:00:00,Yes,19,14
+7,23,Reading Roadrunners Mostly Men,Lance Nortcliff,MV,13:56:07,14:54:41,0:58:34,0:06:26,0:00:00,,4,4
+7,24,Reading Roadrunners Mostly Ladies,Andrea Greenfield,FV,14:00:00,15:14:17,1:14:17,0:08:10,0:00:00,Yes,17,18
+7,25,Reading Roadrunners Veterans,Dawn Godwin,FV,14:00:00,15:14:47,1:14:47,0:08:13,0:00:00,Yes,12,19
+7,26,Royal Wootton Bassett Hounds RC / Team 1,Sam Kelly,FV,14:00:00,15:14:10,1:14:10,0:08:09,0:00:00,Yes,15,17
+7,27,Royal Wootton Bassett Hounds RC / Team 2,Mark Palmer,MV,14:00:00,15:49:18,1:49:18,0:12:01,0:00:00,Yes,39,40
+7,28,Swindon Striders,Gary Whitehead,M,14:00:00,15:13:14,1:13:14,0:08:03,0:00:00,Yes,37,16
+7,29,Team Paolo,Adrian Parry,M,14:00:00,15:29:42,1:29:42,0:09:51,0:00:00,Yes,35,31
+7,30,Team Rosa,Aaron Lamb,M,14:00:00,15:23:12,1:23:12,0:09:09,0:00:00,Yes,20,28
+7,31,Wood Reading,Richard Bell,M,14:00:00,15:21:18,1:21:18,0:08:56,0:00:00,Yes,29,24
+7,32,Vale of Aylesbury,Andy Byerley,MV,14:00:00,15:17:06,1:17:06,0:08:28,0:00:00,Yes,8,20
+7,33,Witney Road Runners A,Gareth Petts,M,13:57:17,14:55:39,0:58:22,0:06:25,0:00:00,,5,3
+7,34,Witney Road Runners B,Will Spracklen,MV,14:00:00,15:37:40,1:37:40,0:10:44,0:00:00,Yes,34,38
+7,35,Woodstock AC,Adrian Smith,MV,14:00:00,15:35:04,1:35:04,0:10:27,0:00:00,Yes,25,36
+7,36,Wroughton Whippets,Adam Lincoln,M,14:00:00,15:09:28,1:09:28,0:07:38,0:00:00,Yes,7,7
+7,37,Whippets Wonder Women,Lisa Lessiter,F,14:00:00,15:20:04,1:20:04,0:08:48,0:00:00,Yes,13,22
+7,38,Whippet Greys,Richard Mayneord,MV,14:00:00,15:13:07,1:13:07,0:08:02,0:00:00,Yes,14,15
+7,39,WHH Thoroughbreds,Andrew Denham,M,14:00:00,15:08:17,1:08:17,0:07:30,0:00:00,Yes,9,6
+7,40,Buckinghamshire Runners,Kirstie Elliot,F,14:00:00,15:22:43,1:22:43,0:09:05,0:00:00,Yes,38,25
+ 8, 1, Abingdon AC 1, Paul Hughes, M, 14:42:03, 15:32:12, 0:50:09, 0:06:26, 0:00:00,, 2, 1
+ 8, 2, Abingdon AC 2, Phil Swarbrick, M, 15:17:29, 16:31:30, 1:14:01, 0:09:29, 0:00:00,, 20, 28
+ 8, 3, Alchester Red, Emma Rundall-Hadley, F, 15:23:09, 16:57:30, 1:34:21, 0:12:06, 0:00:00,, 32, 37
+ 8, 4, Alchester Blue, Sue Morris, FV, 15:23:09, 16:46:55, 1:23:46, 0:10:44, 0:00:00,, 30, 33
+ 8, 5, Bearbrook A, Tba Tba, F, 15:37:15, #N/A, #N/A, #N/A, 0:00:00,,,
+ 8, 6, Bearbrook 1, Jason Lamont, MV, 15:31:34, 16:45:15, 1:13:41, 0:09:27, 0:00:00,, 25, 27
+ 8, 7, Compton Harriers RC 'A', Darren James, MV, 15:21:02, 16:19:15, 0:58:13, 0:07:28, 0:00:00,, 9, 7
+ 8, 8, Compton Harriers RC 'B', Lucy Gettins, FV, 15:31:33, 16:49:30, 1:17:57, 0:10:00, 0:00:00,, 28, 31
+ 8, 9, Eynsham Roadrunners A, Kate Daniels, F, 15:11:11, 16:16:10, 1:04:59, 0:08:20, 0:00:00,, 6, 11
+ 8, 10, Eynsham Roadrunners B, Katherine Bates, FV, 15:12:04, 16:23:45, 1:11:41, 0:09:11, 0:00:00,, 18, 22
+ 8, 11, HX Soles on Fire, Bob Yates, MV, 15:43:37, 16:57:55, 1:14:18, 0:09:32, 0:00:00,, 35, 29
+ 8, 12, HX Cirque du Sore Legs, Darren Thorley, M, 15:26:21, 16:32:22, 1:06:01, 0:08:28, 0:00:00,, 19, 14
+ 8, 13, HX Pacemakers, Ian Langham, MV, 15:31:08, 16:44:32, 1:13:24, 0:09:25, 0:00:00,, 21, 26
+ 8, 14, Headington RoadRunners Mostly Ladies, Charlotte Cox, F, 15:12:09, 16:21:45, 1:09:36, 0:08:55, 0:00:00,, 16, 20
+ 8, 15, Headington RoadRunners Mostly Men, Chris Arderne, M, 14:43:06, 15:38:40, 0:55:34, 0:07:07, 0:00:00,, 3, 6
+ 8, 16, Headington RoadRunners Vets, Laurie Hurman, MV, 15:28:42, 16:37:45, 1:09:03, 0:08:51, 0:00:00,, 26, 18
+ 8, 17, Lliswerry Runners, Hannah Wells, F, 15:34:44, 17:17:00, 1:42:16, 0:13:07, 0:00:00,, 39, 38
+ 8, 18, Marlborough Rambunctious Caperers, Daniela Greenaway, F, 15:09:56, 16:33:21, 1:23:25, 0:10:42, 0:00:00,, 27, 32
+ 8, 19, Marlborough Righteous Crusaders, Kirsty Newland, FV, 15:09:44, 16:38:30, 1:28:46, 0:11:23, 0:00:00,, 33, 36
+ 8, 20, Newbury AC Team A, Bernie Gerrard, M, 14:39:03, 15:30:10, 0:51:07, 0:06:33, 0:00:00,, 1, 3
+ 8, 21, Newbury AC Team B, Stephen Ferriday, MV, 15:12:15, 16:21:15, 1:09:00, 0:08:51, 0:00:00,, 11, 17
+ 8, 22, Pewsey Projectiles (PVRC), Vicky Fawdry, FV, 15:12:36, 16:36:34, 1:23:58, 0:10:46, 0:00:00,, 22, 34
+ 8, 23, Reading Roadrunners Mostly Men, David Parton, M, 14:54:41, 15:45:30, 0:50:49, 0:06:31, 0:00:00,, 4, 2
+ 8, 24, Reading Roadrunners Mostly Ladies, Holly Sedgwick, FV, 15:14:17, 16:13:52, 0:59:35, 0:07:38, 0:00:00,, 14, 10
+ 8, 25, Reading Roadrunners Veterans, David Fiddes, M, 15:14:47, 16:23:55, 1:09:08, 0:08:52, 0:00:00,, 12, 19
+ 8, 26, Royal Wootton Bassett Hounds RC / Team 1, Adam Baker, M, 15:14:10, 16:29:01, 1:14:51, 0:09:36, 0:00:00,, 17, 30
+ 8, 27, Royal Wootton Bassett Hounds RC / Team 2, Fran Machin, F, 15:45:00, 16:57:45, 1:12:45, 0:09:20, 0:00:00,Yes, 38, 24
+ 8, 28, Swindon Striders, Mark Jones, MV, 15:13:14, 16:40:26, 1:27:12, 0:11:11, 0:00:00,, 36, 35
+ 8, 29, Team Paolo, Peter Neal, MV, 15:29:42, 16:36:42, 1:07:00, 0:08:35, 0:00:00,, 34, 15
+ 8, 30, Team Rosa, Sarah Fish, F, 15:23:12, 17:11:30, 1:48:18, 0:13:53, 0:00:00,, 29, 39
+ 8, 31, Wood Reading, Gemma B, F, 15:21:18, 16:26:30, 1:05:12, 0:08:22, 0:00:00,, 24, 12
+ 8, 32, Vale of Aylesbury, Aaron Ward, M, 15:17:06, 16:11:12, 0:54:06, 0:06:56, 0:00:00,, 8, 5
+ 8, 33, Witney Road Runners A, Stephen Young, M, 14:55:39, 15:48:45, 0:53:06, 0:06:48, 0:00:00,, 5, 4
+ 8, 34, Witney Road Runners B, Calum Langan, MV, 15:37:40, 16:36:50, 0:59:10, 0:07:35, 0:00:00,, 31, 8
+ 8, 35, Woodstock AC, Matt Eveleigh, M, 15:35:04, 16:45:45, 1:10:41, 0:09:04, 0:00:00,, 23, 21
+ 8, 36, Wroughton Whippets, Dani Smith, F, 15:09:28, 16:08:45, 0:59:17, 0:07:36, 0:00:00,, 7, 9
+ 8, 37, Whippets Wonder Women, Amy Cameron, F, 15:20:04, 16:28:22, 1:08:18, 0:08:45, 0:00:00,, 13, 16
+ 8, 38, Whippet Greys, Paul Phillips, MV, 15:13:07, 16:24:56, 1:11:49, 0:09:12, 0:00:00,, 15, 23
+ 8, 39, WHH Thoroughbreds, Susy Escuder, F, 15:08:17, 16:14:02, 1:05:45, 0:08:26, 0:00:00,, 10, 13
+ 8, 40, Buckinghamshire Runners, Jez Vibert, MV, 15:22:43, 16:35:30, 1:12:47, 0:09:20, 0:00:00,, 37, 25
