@@ -1,6 +1,6 @@
 # bokeh
 
-***NOTE:*** If viewing in github, although github with render the notebook, it will **NOT** show the plots.  To view the plots, download the notebook and run it in your local jupyter notebook server.  
+***NOTE:*** If viewing in github, although github will render the notebook, it will **NOT** show the plots.  To view the plots, download the notebook and run it in your local jupyter notebook server.  
 
 ## marlborough24_stacked.ipynb
 
