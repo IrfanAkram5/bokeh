@@ -10,6 +10,6 @@ The notebook is the 3rd iteration and it reads in data from `marlborough24_data.
   
 ## marlborough24_elapsed_time.ipynb
 
-This notebook is the 2nd iteration.  It looks show the elapsed time for each team.  It uses a mix of line and scatter points.
+This notebook is the 2nd iteration.  It looks to show the elapsed time for each team.  It uses a mix of line and scatter points.
 
 ![alt text](image-1.png)
