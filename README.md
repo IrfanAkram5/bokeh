@@ -4,7 +4,7 @@
 
 ## marlborough24_stacked.ipynb
 
-The notebook is the 3rd iteration and.  It reads in data from `marlborough24_data.csv` and creates a stacked horizontal bar chart.  Example of using categorical and time data.  You should see the below plot( rendered with initial uploaded version of the notebook):
+The notebook is the 3rd iteration and it reads in data from `marlborough24_data.csv` and creates a stacked horizontal bar chart.  Example of using categorical and time data.  You should see the below plot( rendered with initial uploaded version of the notebook):
 
 ![alt text](image.png)
   
